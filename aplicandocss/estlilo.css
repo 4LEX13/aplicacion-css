@@ -1,0 +1,30 @@
+.contedorpricipal{
+
+position: absolute;
+height: 600px;
+width: 800px;
+background: #00cc66;
+text-align: center;
+top: 50%;
+right: 50%;
+transform: translate(50%,-50%);
+border-radius: 30%;
+border-bottom-right-radius: 30%;
+border-bottom-left-radius: 30%;
+
+}
+
+.carbody{
+    background: white;
+    height: 90%;
+    padding: 20px;
+
+
+}
+body{
+    background-image: url("https://img.webme.com/pic/w/webcp/bge01.jpg");
+    background-size: cover;
+}
+.estilotexto{
+    margin-top: 10%;
+}
